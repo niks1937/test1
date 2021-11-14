@@ -1,3 +1,4 @@
 It is test file for analyzing
 1
 2
+main 1
